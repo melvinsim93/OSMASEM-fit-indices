@@ -30,7 +30,7 @@
 - It is flexible because:
   - Not only can models with multiple variables and multiple outcomes be examined
   - But it can also examine models with multiple pathways:
-  - 
+
 ![image](https://user-images.githubusercontent.com/96096344/153248352-fcdb61ca-e21b-461a-b93c-565f0bc1c25a.png)
 
 - For example, advertising may have a knock on effect on sales by boosting the quality of hires due to greater brand consciousness. 
