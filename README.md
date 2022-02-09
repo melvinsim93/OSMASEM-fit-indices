@@ -1,6 +1,6 @@
 #What is this thesis about?
-##What is Meta-Analysis?
 
+##What is Meta-Analysis?
 - Meta-analysis is a method of statistically calculating the true (real) effect of a relationship between variables.
 - Individual experiments or research studies are usually limited because they may have small sample sizes. 
 - This leaves the possibility of sampling error, essentially there is a possibility that the relationship found from the individual study maybe a statistical anomaly.
