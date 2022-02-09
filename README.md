@@ -12,9 +12,9 @@
 
 - However, in the real world we are often more interested in more than just a single relationship at a time
 - Such as several variables effects on a single outcome variable
-- (E.g Effect of advertising, hiring more staff, and better training on a company's sales) or
+  - (E.g Effect of advertising, hiring more staff, and better training on a company's sales) or
 - Several variables effects on multiple outcome variables
-- E.g Effect of advertising, hiring more staff, and better training on a company's sales at multiple locations
+  - E.g Effect of advertising, hiring more staff, and better training on a company's sales at multiple locations
 
 ## Enter Meta-analytic Structural Equation Modelling (MASEM)
 - It allows users to construct statistical models that can examine the relationship of several variables on multiple outcomes.
