@@ -25,7 +25,7 @@
 - It is flexible because:
   - Not only can models with multiple variables and multiple outcomes be examined
   - But it can also examine models with multiple pathways
-  - E.g. 
+
 - One other powerful feature of SEM is that you can statistically examine whether the constructed model fits the data well.
 - Essentially, how well does the user's idea of reality fit the observed data, which is a measure of reality
 - The group of statistics that quantify how well the model fits the data are called goodness of fit indices (GOF)
