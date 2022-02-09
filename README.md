@@ -12,9 +12,14 @@
 
 - However, in the real world we are often more interested in more than just a single relationship at a time
 - Such as several variables effects on a single outcome variable
-  - (E.g Effect of advertising, hiring more staff, and better training on a company's sales) or
-- Several variables effects on multiple outcome variables
+  - (E.g Effect of advertising, hiring more staff, and better training on a company's sales)
+
+![image](https://user-images.githubusercontent.com/96096344/153242968-a3ab7649-2e0c-466a-ad53-a111eeafc13a.png)
+
+- Or several variables effects on multiple outcome variables
   - E.g Effect of advertising, hiring more staff, and better training on a company's sales at multiple locations
+
+![image](https://user-images.githubusercontent.com/96096344/153243347-80844144-1a34-4adc-849d-560bbb9c3eae.png)
 
 ## Enter Meta-analytic Structural Equation Modelling (MASEM)
 - It allows users to construct statistical models that can examine the relationship of several variables on multiple outcomes.
@@ -24,7 +29,20 @@
 - It is a powerful and flexible method of constructing statistical models within data science it is analogous to naive bayesian networks
 - It is flexible because:
   - Not only can models with multiple variables and multiple outcomes be examined
-  - But it can also examine models with multiple pathways
+  - But it can also examine models with multiple pathways?:
+
+![image](https://user-images.githubusercontent.com/96096344/153245344-ca923f3f-289d-4225-bbd4-cf3f9d51ac3f.png)
+
+- For example, advertising may have a knock on effect on sales by boosting the quality of hires due to greater brand consciousness. 
+- Hence hiring more people would have a greater positive effect on sales as the quality of people being hired are better. Training would also affect hiring by improving the quality of the people hired. 
+- Hence in this example we have three direct pathways to improving sales
+  - Advertising -> Sales
+  - Hiring -> Sales
+  - Training -> Sales
+
+- and there are three indirect pathways or knock on effect pathways
+  - Advertising -> Hiring -> Sales
+  - Training -> Hiring -> Sales
 
 - One other powerful feature of SEM is that you can statistically examine whether the constructed model fits the data well.
 - Essentially, how well does the user's idea of reality fit the observed data, which is a measure of reality
