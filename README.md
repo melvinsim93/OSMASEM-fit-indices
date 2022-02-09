@@ -9,7 +9,7 @@
 ## But there is a caveat
 - Meta-analysis only allows users to examine a single relationship at a time
 - E.g. Advertising's effect on a company's sales
-- 
+
 - However, in the real world we are often more interested in more than just a single relationship at a time
 - Such as several variables effects on a single outcome variable
 - (E.g Effect of advertising, hiring more staff, and better training on a company's sales) or
